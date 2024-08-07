@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(251, 251, 250);
+    font-family: arial;
+}
+.two{
+    background-color: aliceblue;
+    height: 300px;
+    
+    
+    
+}
+.one th{
+    width: 80px;
+    height: 50px;
+}
+table{
+    width: 1200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 250px;
+    border-radius: 15px;
+    box-shadow: 4px 3px 4px;
+    border-spacing: 10px;
+
+}
+th{
+    border-radius: 10px;
+    border-color: pink;
+}
+
